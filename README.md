@@ -19,5 +19,5 @@ Software Engineer | AI Explorer | DSA Enthusiast
 <img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/neo124?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap)
-
+### Dopamine Hit (Activity Graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
