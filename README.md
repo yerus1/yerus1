@@ -14,6 +14,7 @@ Software Engineer
 
 
 ### IDE and Tools I Use
+<img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="50" height="50" src="https://img.icons8.com/office/40/spring-logo.png" alt="spring-logo"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
 <img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
 
