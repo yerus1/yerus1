@@ -22,7 +22,7 @@ Software Engineer | AI Explorer | DSA Enthusiast
 ### Dopamine Hit (Activity Graph)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 👁️‍🗨️ Visitors to the Matrix
+### Visitors to the Matrix
 ![Visitor Count](https://profile-counter.glitch.me/yerus1/count.svg)
 
 > **"I don't just code the Matrix.  
