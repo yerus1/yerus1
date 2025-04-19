@@ -10,8 +10,9 @@ Software Engineer
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color//icons8-rest-api-nolan-16.png" alt="REST API Icon">
+<img height="50" width="50" src="https://icons8.com/icon/55497/rest-api" alt="REST API Icon">
 <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-rest api-nolan-16.png">
+https://icons8.com/icon/55497/rest-api
 
 
 ### IDE and Tools I Use
