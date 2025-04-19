@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Neo
+## Hi there 👋 It's me Neo Strider 
 
 Software Engineer | AI Explorer | DSA Enthusiast
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
