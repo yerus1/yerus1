@@ -9,11 +9,14 @@ Software Engineer | DSA Enthusiast
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/api-settings.png" alt="api-settings"/>
+<img width="50" height="50" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="external-microservice-microservices-soft-fill-soft-fill-juicy-fish"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
 
 
