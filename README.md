@@ -14,6 +14,7 @@ Software Engineer | DSA Enthusiast
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
 <img width="50" height="50" src="https://img.icons8.com/nolan/64/api-settings.png" alt="api-settings"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
 
 
 ### IDE and Tools I Use
