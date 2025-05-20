@@ -1,11 +1,14 @@
 ## Hi there 👋 It's me Neo Strider 
 
-Software Engineer | DSA Enthusiast
+**Software Engineer | DSA Enthusiast**
 <img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my **[Projects Repo](#)** – check out what I’ve been building!                                                 
-- 🌱 I’m currently learning DSA and learning AI to my workflow
-- 💼 Previously worked with <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="24" width="24">
-- ⚡ Fitness + Coding = My daily grind
+- 🔭 Currently crafting robust Java backends and exploring new tech stacks  
+- 🌱 Learning **System Design** and sharpening my **DSA** game daily  
+- 💼 Previously worked at **Wipro Technologies** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="24" width="24">  
+- 📦 Designing scalable microservices with **Spring Boot** and **RESTful APIs**  
+- 🔐 Securing applications using **Spring Security**, **JWT**, and **OAuth2**  
+- ☁️ Building cloud-native apps with **Docker**, **Kubernetes**, and automated deployments  
+- 🧘‍♂️ Balance is key – I code, I lift, I repeat  
 
 
 ### I code in
@@ -31,5 +34,5 @@ Software Engineer | DSA Enthusiast
 ### Visitors to the Matrix
 ![Visitor Count](https://profile-counter.glitch.me/yerus1/count.svg)
 
-> **"I don't just code the Matrix.  
-> I *build* it."** — Neo Strider 🕶️⚡
+
+
