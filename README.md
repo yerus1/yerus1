@@ -2,7 +2,7 @@
 
 **Software Engineer**
 <img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔗 [**Portfolio**](https://yerus1.github.io/Portfolio/) – Explore my work, projects, and journey  
+- 🔗 [**Portfolio**](https://yerus1.github.io/Portfolio/) – Explore my work, projects, and journey 
 - 🔭 Currently crafting robust Java backends and exploring new tech stacks  
 - 🌱 Learning **System Design** and sharpening my **DSA** game daily  
 - 💼 Previously worked at **Wipro Technologies** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="24" width="24">  
