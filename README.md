@@ -7,7 +7,7 @@
 - 🌱 Learning **System Design** and sharpening my **DSA** game daily  
 - 💼 Previously worked at **Wipro Technologies** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="24" width="24">  
 - 📦 Designing scalable microservices with **Spring Boot** and **RESTful APIs**  
-- 🔐 Securing applications using **Spring Security**, **JWT**, and **OAuth2**  
+- 🔐 Securing applications using **Spring Security**, **JWT**, and **OAuth2** 
 - ☁️ Building cloud-native apps with **Docker** and deployments  
 - 🧘‍♂️ Balance is key – I code, I lift, I repeat  
 
