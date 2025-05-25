@@ -1,20 +1,20 @@
 ## 👋 Hi there, I'm Surendar  
 
-***Software Engineer | Backend Developer | Tech Enthusiast***  
+**Software Engineer | Backend Developer | Tech Enthusiast**  
 
 <img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- ***🔗 [**Portfolio**](https://yerus1.github.io/Portfolio/) – Explore my projects, achievements, and professional journey***
-- 🛠️ Building scalable backend systems using ***Java***, ***Spring Boot***, and ***Microservices Architecture***  
-- 🌱 Actively learning **System Design** and **Data Structures & Algorithms**
-- 💼 Former Software Engineer at **Wipro Technologies** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="20" />  
-- 📦 Designing resilient microservices with **Spring Boot** and **RESTful APIs**  
-- 🔐 Securing applications with **Spring Security**, **JWT**, and **OAuth2**  
-- ☁️ Developing cloud-native solutions using **Docker** and automated deployments  
-- ***⚖️ Committed to holistic growth — professionally driven, personally balanced*** 
+- 📌  ***[**Portfolio**](https://yerus1.github.io/Portfolio/) – Explore my projects, achievements, and professional journey***
+- 🛠️ ***Building scalable backend systems using ***Java***, ***Spring Boot***, and ***Microservices Architecture******
+- 🌱 ***Actively learning **System Design** and **Data Structures & Algorithms*****
+- 💼 ***Former Software Engineer at **Wipro Technologies***** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="20" />  
+- 📦 ***Designing resilient microservices with **Spring Boot** and **RESTful APIs*****  
+- 🔐 ***Securing applications with **Spring Security**, **JWT**, and **OAuth2*****  
+- ☁️ ***Developing cloud-native solutions using **Docker** and automated deployments***  
+- ⚖️ ***Committed to holistic growth — professionally driven, personally balanced*** 
 
 
-***Languages & Frameworks*** 
+***Languages & Frameworks I Work With***
 
 <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
@@ -42,12 +42,12 @@
   <tr>
     <td>
       <a href="https://leetcode.com/neo124/">
-        <img src="https://leetcard.jacoblin.cool/neo124?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap" alt="LeetCode Stats" width="100%" height="250"/>
+        <img src="https://leetcard.jacoblin.cool/neo124?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap" alt="LeetCode Stats" width="100%" height="270"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/yerus1">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" height="250"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" height="270"/>
       </a>
     </td>
   </tr>
