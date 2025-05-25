@@ -35,7 +35,7 @@
 
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerus1&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" width="300" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" 
-         alt="GitHub Activity Graph" width="550" height="250" />
+         alt="GitHub Activity Graph" width="400" height="250" />
 
 
 ***Visitors***  
