@@ -2,7 +2,7 @@
 
 **Software Engineer | Backend Developer | Tech Enthusiast**  
 
-<img align="right" alt="Coding" width="350" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📌  ***[**Portfolio**](https://yerus1.github.io/Portfolio/) – Explore my projects, achievements, and professional journey***
 - 🛠️ ***Building scalable backend systems using ***Java***, ***Spring Boot***, and ***Microservices Architecture******
@@ -27,8 +27,6 @@
 <img height="40" src="https://img.icons8.com/color/48/linux--v1.png" /> <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /> 
 <img height="40" src="https://img.icons8.com/color/48/intellij-idea.png" /> 
 <img height="40" src="https://img.icons8.com/color/50/git.png" /> 
-<img height="40" src="https://img.icons8.com/office/40/spring-logo.png" /> 
-<img height="40" src="https://img.icons8.com/officel/480/java-eclipse.png" /> 
 <img height="40" src="https://img.icons8.com/color/48/notion--v1.png" /> 
 <img height="40" src="https://img.icons8.com/dusk/64/postman-api.png" />
 
@@ -46,7 +44,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/yerus1/count.svg)
 
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/yerus1/yerus1/blob/output/github-contribution-grid-snake.svg)
 
