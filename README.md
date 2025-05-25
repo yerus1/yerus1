@@ -30,10 +30,7 @@
 <img height="40" src="https://img.icons8.com/color/48/notion--v1.png" /> 
 <img height="40" src="https://img.icons8.com/dusk/64/postman-api.png" />
 
-***LeetCode & GitHub Progress***
-
- 
-![LeetCode Stats](https://leetcard.jacoblin.cool/neo124?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap)
+***GitHub Progress***
 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
