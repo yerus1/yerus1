@@ -1,9 +1,8 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 ## 👋 Hi there, I'm Surendar  
 
 **Software Engineer | Backend Developer | Tech Enthusiast**  
 
-<img align="right" width="350" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" alt="Coding" width="350" height="290" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📌  ***[**Portfolio**](https://yerus1.github.io/Portfolio/) – Explore my projects, achievements, and professional journey***
 - 🛠️ ***Building scalable backend systems using ***Java***, ***Spring Boot***, and ***Microservices Architecture******
