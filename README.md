@@ -1,3 +1,4 @@
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 ## 👋 Hi there, I'm Surendar  
 
 **Software Engineer | Backend Developer | Tech Enthusiast**  
@@ -14,7 +15,7 @@
 - ⚖️ ***Committed to holistic growth — professionally driven, personally balanced*** 
 
 
-***Languages & Frameworks***
+***Languages & Tools***
 
 <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
@@ -24,10 +25,6 @@
 <img height="40" src="https://img.icons8.com/nolan/64/api-settings.png" alt="api-settings" />
 <img height="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-microservice-microservices-soft-fill-soft-fill-juicy-fish.png" alt="microservices" />
 <img height="40" src="https://img.icons8.com/fluency/48/docker.png" alt="docker" />
-
-
-***IDE and Tools***
-
 <img height="40" src="https://img.icons8.com/color/48/linux--v1.png" /> <img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" /> 
 <img height="40" src="https://img.icons8.com/color/48/intellij-idea.png" /> 
 <img height="40" src="https://img.icons8.com/color/50/git.png" /> 
@@ -49,3 +46,8 @@
 ***Visitors***  
 
 ![Visitor Count](https://profile-counter.glitch.me/yerus1/count.svg)
+
+### 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/yerus1/yerus1/blob/output/github-contribution-grid-snake.svg)
+
