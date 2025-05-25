@@ -38,20 +38,12 @@
 
 ***LeetCode & GitHub Progress***
 
-<table>
-  <tr>
-    <td>
-      <a href="https://leetcode.com/neo124/">
-        <img src="https://leetcard.jacoblin.cool/neo124?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap" alt="LeetCode Stats" width="100%" height="250"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/yerus1">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" height="250"/>
-      </a>
-    </td>
-  </tr>
-</table>
+ 
+![LeetCode Stats](https://leetcard.jacoblin.cool/neo124?theme=dark&font=Noto%20Sans%20Mahajani&ext=heatmap)
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ***Visitors***  
