@@ -14,7 +14,7 @@
 - ⚖️ ***Committed to holistic growth — professionally driven, personally balanced*** 
 
 
-***Languages & Frameworks I Work With***
+***Languages & Frameworks***
 
 <img height="40" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
