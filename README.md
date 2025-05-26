@@ -2,7 +2,7 @@
 
 **Software Engineer | Backend Developer | Tech Enthusiast**  
 
-<img align="right" alt="Coding" width="350" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="340" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📌 [**Portfolio**](https://yerus1.github.io/Portfolio/) – Explore my projects, achievements, and professional journey  
 - 🛠️ Building scalable backend systems with **Java**, **Spring Boot**, and **Microservices Architecture**  
