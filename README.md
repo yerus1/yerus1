@@ -1,4 +1,4 @@
-## ***👋 Hi there, I'm Surendar***  
+## 👋 Hi there, I'm Surendar
 
 **Software Engineer | Backend Developer | Tech Enthusiast**  
 
