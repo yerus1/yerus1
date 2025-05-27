@@ -8,7 +8,7 @@
 - 🛠️ ***Building scalable backend systems using ***Java***, ***Spring Boot***, and ***Microservices Architecture******
 - 🌱 ***Actively learning **System Design** and **Data Structures & Algorithms*****
 - 💼 ***Former Software Engineer at **Wipro Technologies***** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="20" />  
-- 📦 ***Designing resilient microservices with **Spring Boot** and **RESTful APIs*****  
+- 📦 ***Designing resilient microservices with **Spring Boot** and **RESTful APIs***** 
 - 🔐 ***Securing applications with **Spring Security**, **JWT**, and **OAuth2*****  
 - ☁️ ***Developing cloud-native solutions using **Docker** and automated deployments***  
 - ⚖️ ***Committed to holistic growth — professionally driven, personally balanced*** 
