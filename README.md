@@ -12,7 +12,7 @@
 - 🔐 ***Securing applications with **Spring Security**, **JWT**, and **OAuth2*****
 - ☁️ ***Developing cloud-native solutions using **Docker** and automated deployments*** 
 - ⚖️ ***Committed to holistic growth — professionally driven, personally balanced***
-
+ 
 
 ***Languages & Tools***
 
