@@ -8,6 +8,7 @@
 - 🌱 ***Actively learning **System Design** and **Data Structures & Algorithms*****
 - 💼 ***Former Software Engineer at **Wipro Technologies***** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="20" /> 
 - ☁️ ***Committed to continuous development — professionally driven and personally balanced.***
+- 💤 ***Master of power naps, recharging creativity on the go***
 
  
 
