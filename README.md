@@ -1,6 +1,6 @@
 ## ***👋 Hi there, I'm Surendar***
 
-**Software Engineer | Backend Developer | Tech Enthusiast**  
+**Software Engineer**  
 
 <img align="right" alt="Coding" width="340" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
