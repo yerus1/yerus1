@@ -18,6 +18,7 @@
   <img title="HTML5" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" />
   <img title="CSS3" height="40" src="https://img.icons8.com/color/48/000000/css3.png" />
   <img title="JavaScript" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img width="40" height="40" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
   <img title="Java" height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
   <img title="Spring Boot" height="40" src="https://img.icons8.com/color/48/000000/spring-logo.png" />
   <img title="PostgreSQL" height="40" src="https://img.icons8.com/color/48/postgreesql.png" />
