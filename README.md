@@ -2,7 +2,7 @@
 
 ***Software Engineer***
 
-<img align="right" alt="Coding" width="340" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="390" height="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 📌 Here's my [**Portfolio**](https://surendar-us.netlify.app/)
 - 🌱 Actively learning Data Structures & Algorithms
