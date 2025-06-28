@@ -35,15 +35,16 @@
 
 ### GitHub Progress
 
+
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerus1&layout=compact&langs_count=8&theme=github_dark&hide_border=true&text_color=ffffff&title_color=ffffff" 
            alt="Top Languages" width="300" />
     </td>
-    <td align="center">
+    <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=yerus1&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true" 
            alt="GitHub Activity Graph" width="600" height="260" />
     </td>
