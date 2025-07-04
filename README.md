@@ -12,7 +12,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="260" height="160" style="margin-left: 20px;" />
 
 ### About Me
-👨‍💼 Former Software Engineer at Wipro  
+👨‍💼 Former Software Engineer at ***Wipro***  
 💻 Currently mastering **DSA** and building scalable **Java Spring Boot APIs**  
 ⚙️ Focused on writing clean, efficient, and maintainable backend code 
 
