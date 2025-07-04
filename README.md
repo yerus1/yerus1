@@ -15,7 +15,7 @@
 
 Former Software Engineer at Wipro  
 Currently focused on mastering **DSA** and building scalable **Java Spring Boot APIs**  
-Keen on writing clean, efficient, and maintainable backend code  
+Keep on writing clean, efficient, and maintainable backend code  
 
 ### Tech Toolbox
 
@@ -26,7 +26,6 @@ Keen on writing clean, efficient, and maintainable backend code
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### Currently Exploring
 
