@@ -6,7 +6,7 @@
 
 - 📌 Here's my [**portfolio**](https://surendar-us.netlify.app/)
 - 🌱 Actively learning Data Structures & Algorithms
-- 💼 Former Software Engineer at **Wipro Technologies** <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Wipro_Primary_Logo_Color_RGB.svg" height="20" />
+- 💼 Former Software Engineer at **Wipro Technologies**
 - ☁️ Committed to continuous development — professionally driven and personally balanced.
 
 
@@ -28,5 +28,4 @@
   <img title="IntelliJ IDEA" height="40" src="https://img.icons8.com/color/48/intellij-idea.png" />
   <img title="Git" height="40" src="https://img.icons8.com/color/50/git.png" />
   <img title="Notion" height="40" src="https://img.icons8.com/color/48/notion--v1.png" />
-  <img title="Postman" height="40" src="https://img.icons8.com/dusk/64/postman-api.png" />
 </p>
